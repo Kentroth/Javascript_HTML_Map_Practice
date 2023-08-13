@@ -1,5 +1,7 @@
 # Map_Practice
 
+***NOTE: This repository contains just the mapping content, the full group project is found here https://github.com/mike2463/Fast-Food-Proxmity-and-Obesity/blob/main/README.md
+
 Group project focused on comparing poverty rates, fast food locations, health outcomes, and obesity. Maps data by state, county, and coordinates using an API, python, flask, pgadmin,java and html.
 
 Fast Food, Poverty, and Obesity
